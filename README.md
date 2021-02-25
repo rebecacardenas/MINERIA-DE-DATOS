@@ -6,7 +6,7 @@
 
 [Ejercicio 1 Bases de Datos](https://github.com/rebecacardenas/MINERIA-DE-DATOS/blob/main/Ej1_BasesDatos_Equipo_4.pdf)
 
-[Ejercicios Basicos de Python](http://localhost:8888/notebooks/Ej_Python_1858163.ipynb#)
+[Ejercicios Basicos de Python](https://github.com/rebecacardenas/MINERIA-DE-DATOS/blob/main/Ej_Python_1858163.ipynb)
 
 ## Fase II
 
