@@ -8,7 +8,7 @@
 
 [Ejercicios Basicos de Python](https://github.com/rebecacardenas/MINERIA-DE-DATOS/blob/main/Ej_Python_1858163.ipynb)
 
-[Práctica de Limpieza de Datos](https://github.com/rebecacardenas/MINERIA-DE-DATOS/blob/main/E3_Practica1_Equipo_4.ipynb)
+[Práctica de Limpieza de Datos](https://github.com/rebecacardenas/MINERIA-DE-DATOS/blob/main/Ej_Limpieza_4.ipynb)
 
 ## Fase II
 
