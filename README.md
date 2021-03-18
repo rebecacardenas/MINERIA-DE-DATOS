@@ -14,6 +14,7 @@
 
 ## Fase II
 [Presentación Técnica de Visualización de Datos](https://github.com/rebecacardenas/MINERIA-DE-DATOS/blob/main/Presentaci%C3%B3n_Visualizaci%C3%B3n_4.pdf.pdf)
+
 [Mini Examen Visualización de Datos](https://github.com/rebecacardenas/MINERIA-DE-DATOS/blob/main/Calificaci%C3%B3n_Visualizaci%C3%B3n_4.pdf)
 
 ## Fase III
