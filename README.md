@@ -17,4 +17,8 @@
 
 [Mini Examen Visualización de Datos](https://github.com/vanessaleal27/Mineria-de-Datos/blob/main/Calificaci%C3%B3n_Visualizaci%C3%B3n_Equipo-4.pdf)
 
+[Ejemplo VIsualización de Datos]
+
+[Mapa Mental Técnicas de Minería](https://github.com/rebecacardenas/MINERIA-DE-DATOS/blob/main/MapaMental_2_1858163.pdf)
+
 ## Fase III
