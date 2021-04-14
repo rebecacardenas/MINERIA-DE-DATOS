@@ -21,6 +21,6 @@
 
 [Mapa Mental Técnicas de Minería](https://github.com/rebecacardenas/MINERIA-DE-DATOS/blob/main/MapaMental_2_1858163.pdf)
 
-[Práctica Visualización de Datos](https://github.com/rebecacardenas/MINERIA-DE-DATOS/blob/main/MapaMental_2_1858163.pdf)
+[Práctica Visualización de Datos](https://github.com/rebecacardenas/MINERIA-DE-DATOS/blob/main/Visualizacion_Equipo4.ipynb)
 
 ## Fase III
